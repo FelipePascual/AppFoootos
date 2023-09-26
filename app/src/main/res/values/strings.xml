@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppFotos1</string>
+    <string name="irActivity">Go to Activity2</string>
+    <string name="irGoogle">Ir a Google</string>
+    <string name="irAlarma">Ir a Alarma</string>
+    <string name="irTelefono">Ir a Telefono</string>
+
+</resources>
