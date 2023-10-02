@@ -3,7 +3,7 @@
     <string name="irActivity">Ir a la segunda pantalla</string>
     <string name="irGoogle">Ir a Google</string>
     <string name="irAlarma">Establecer una Alarma</string>
-    <string name="irTelefono">Ir a Telefono</string>
+    <string name="irTelefono">Ir a Teléfono</string>
     <string name="irGps">Ubicación GPS Santuario</string>
     <string name="irTemporizador">Crear e iniciar Temporizador</string>
 </resources>
