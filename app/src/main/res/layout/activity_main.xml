@@ -45,6 +45,22 @@
 
         </Button>
 
+        <Button
+            android:id="@+id/mapaGps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/irGps">
+
+        </Button>
+
+        <Button
+            android:id="@+id/temporizador"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/irTemporizador">
+
+        </Button>
+
     </LinearLayout>
 
 
